@@ -1,5 +1,5 @@
 <h1>
-  <a href="vk.com/vapgsv" target="blank_">
+  <a href="vk.com/vapgsv">
     Hi there 👋
   </a>
 </h1>

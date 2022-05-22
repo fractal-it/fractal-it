@@ -13,5 +13,7 @@
         <li> 🐍 python </li>
         <br>
         <li> 👨‍💻 web </li>
+        <br>
+        <li> 👨‍💻C# </li>
     </ul>
 </h5>

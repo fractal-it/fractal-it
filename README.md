@@ -1,7 +1,3 @@
-<img src=https://i.imgur.com/GoZKP1Z.gif>
-
-<hr>
-
 <h1>
     Hi there 👋
 </h1>

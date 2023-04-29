@@ -16,8 +16,12 @@
     <ul>
         <li> 🐍 python </li>
         <br>
-        <li> 👨‍💻 web </li>
+        <li> 🌐 web </li>
         <br>
         <li> 👨‍💻C# </li>
+        <br>
+        <li> 👨‍💻C++ </li>
+        <br>
+        <li> 🦀💻Rust </li>
     </ul>
 </h5>
